@@ -1,2 +1,2 @@
-# Game_Don-tGetMelted
+# Game_DontGetMelted
 https://nuketon.itch.io/dont-get-melted
